@@ -1,3 +1,7 @@
+---
+title: "Codebook"
+output: html_document
+---
 
 The tidy dataset includes the following files:
 =========================================
